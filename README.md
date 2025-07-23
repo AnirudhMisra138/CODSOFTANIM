@@ -8,7 +8,7 @@ Welcome to my C++ internship project portfolio! This repository showcases variou
 
 This is a simple C++ console-based game where the program generates a random number between a defined range (e.g., 1 to 100), and the user tries to guess it. After each guess, the program provides feedback indicating whether the guess was too high, too low, or correct. The game continues until the user correctly guesses the number.
 
-#### 🔧 Features
+### 🔧 Features
 - Generates a new random number on each run
 
 - Gives real-time feedback on user guesses
